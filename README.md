@@ -89,8 +89,7 @@ User and data interactions (auth, products, orders) are handled via **localStora
 
 🔗 Hosted on: [https://ahmed-shaltout3g.github.io/Ecommerce-Task/#/](https://ahmed-shaltout3g.github.io/Ecommerce-Task/#/)
 
-🎥 Demo Video (Loom): *Coming Soon or Insert your Loom link here*
-
+🎥 Demo Video (Loom): [https://www.loom.com/share/d64f7f35d03945418d58e86abd4dcb93?sid=ef8c5206-79f6-4929-bd92-25f75720b55a](https://www.loom.com/share/d64f7f35d03945418d58e86abd4dcb93?sid=ef8c5206-79f6-4929-bd92-25f75720b55a)
 ---
 
 ## 🧪 Testing Instructions
