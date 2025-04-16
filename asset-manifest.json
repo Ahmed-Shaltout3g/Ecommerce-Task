@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Task/static/css/main.6d8aa2d2.css",
+    "main.js": "/Ecommerce-Task/static/js/main.b68daaea.js",
+    "static/js/453.2d40735f.chunk.js": "/Ecommerce-Task/static/js/453.2d40735f.chunk.js",
+    "static/media/h2.png": "/Ecommerce-Task/static/media/h2.a08de3fff5f03bb8dca9.png",
+    "static/media/h4.webp": "/Ecommerce-Task/static/media/h4.4c50003f1b5b8a86a62f.webp",
+    "static/media/fa-solid-900.ttf": "/Ecommerce-Task/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Ecommerce-Task/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/bootstrap-icons.woff?": "/Ecommerce-Task/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/Ecommerce-Task/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/bootstrap-icons.woff2?": "/Ecommerce-Task/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/Ecommerce-Task/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/Ecommerce-Task/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/h1.webp": "/Ecommerce-Task/static/media/h1.472aa4a0de3f479edd70.webp",
+    "static/media/h3.webp": "/Ecommerce-Task/static/media/h3.1fb0b59810ba3c6a635b.webp",
+    "static/media/fa-regular-400.woff2": "/Ecommerce-Task/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Ecommerce-Task/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce-Task/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Ecommerce-Task/index.html",
+    "main.6d8aa2d2.css.map": "/Ecommerce-Task/static/css/main.6d8aa2d2.css.map",
+    "main.b68daaea.js.map": "/Ecommerce-Task/static/js/main.b68daaea.js.map",
+    "453.2d40735f.chunk.js.map": "/Ecommerce-Task/static/js/453.2d40735f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d8aa2d2.css",
+    "static/js/main.b68daaea.js"
+  ]
+}
