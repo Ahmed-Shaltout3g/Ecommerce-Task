@@ -1,0 +1,76 @@
+
+
+.movies h1,p
+{
+    font-family: var(--sub-font);
+
+}
+
+.title 
+{
+    padding: 0px  40px;
+    font-family: var(--sub-font);
+}
+
+
+.item
+{
+    
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 95%;
+    bottom: 0px;
+    left: 100%;
+    z-index: 9999;
+    transition: all 1s;
+}
+
+.hover:hover > .item 
+{
+    left:0px;
+    top: 50%;
+
+}
+
+
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Add scale effect on icon hover */
+  .card i {
+    transition: transform 0.3s ease;
+  }
+  
+  .card i:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Favorite heart animation */
+  .card i.fa-heart {
+    transition: color 0.3s ease;
+  }
+  
+  .card i.fa-heart:hover {
+    color: #ff0000;
+  }
+
+
+
+  .swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
